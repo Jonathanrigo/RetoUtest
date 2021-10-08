@@ -1,0 +1,14 @@
+
+j	java:S116"URename this field "first_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è•Ûì
+i	java:S116"TRename this field "last_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šø´¯
+k	java:S116"VRename this field "postal_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛòÛ—
+u	java:S116"[Rename this field "operating_system" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôòâ›ùÿÿÿÿ
+o	java:S116"[Rename this field "confirm_password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú“¶~
+u	java:S116"[Rename this field "mensaje_registro" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë”èÍüÿÿÿÿ
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìşæ8Ñ´‘åÅ/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İí‚Æùÿÿÿÿ8Ó´‘åÅ/
+i	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¸æH8Ö´‘åÅ/
+o	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œñ½·úÿÿÿÿ8Ø´‘åÅ/
+j	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ğ£§8Ú´‘åÅ/
+j	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¨ê§8Û´‘åÅ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï©ŒÚ
