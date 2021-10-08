@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Enter Utest.com" skipped="0" tests="1" time="31.79" timestamp="2021-10-07 07:58:19"><testcase name="Create a new user"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
-co.com.choucair.certification.Utest.tasks.RegistroUtest.pageTwo(RegistroUtest.java:85)&#13;
-co.com.choucair.certification.Utest.tasks.RegistroUtest.performAs(RegistroUtest.java:63)&#13;
-co.com.choucair.certification.Utest.stepdefinitions.CrearUnUsuarioStepDefintion.fillOutTheRegistrationForm(CrearUnUsuarioStepDefintion.java:28)&#13;
-cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Enter Utest.com" skipped="0" tests="1" time="101.04" timestamp="2021-10-07 10:28:34"><testcase name="Create a new user"/></testsuite>
