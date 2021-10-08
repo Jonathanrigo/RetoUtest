@@ -17,3 +17,11 @@ z
 Jsrc/main/java/co/com/choucair/certification/Utest/tasks/RegistroUtest.java,b\0\b0535b42b4a278f419dc752ad7535a6b874243d2
 †
 Vsrc/main/java/co/com/choucair/certification/Utest/userinterface/RegistroUtestPage.java,6\2\62d9fee1e90e032318feab09c41df9bb7c6ad914
+‡
+Wsrc/main/java/co/com/choucair/certification/Utest/userinterface/RegistroUtestPage2.java,1\3\13502f6bc2ccd0e5f56481ab87ca13c8fc7933d4
+‡
+Wsrc/main/java/co/com/choucair/certification/Utest/userinterface/RegistroUtestPage3.java,b\2\b20ccb9f13480b62a40fac364d095e824159f2ee
+’
+bsrc/test/java/co/com/choucair/certification/Utest/stepdefinitions/CrearUnUsuarioStepDefintion.java,8\b\8bfc281e4cee1b849c65a0d4c64f7e71c7ef777e
+‡
+Wsrc/main/java/co/com/choucair/certification/Utest/userinterface/RegistroUtestPage4.java,7\b\7b2d1be9e85fba5da001c76925ce10b3abaf7c08
