@@ -1,6 +1,6 @@
 package co.com.choucair.certification.Utest.questions;
 
-import co.com.choucair.certification.Utest.userinterface.RegistroUtestPage;
+import co.com.choucair.certification.Utest.userinterface.RegistroUtestPageYourself;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;
@@ -19,7 +19,7 @@ public class AnswerRegistro implements Question<Boolean> {
 
     @Override
     public Boolean answeredBy(Actor actor) {
-        nameCourse = Text.of(RegistroUtestPage.LBL_REGISTRO_COMPLETO).viewedBy(actor).asString();
+        nameCourse = Text.of(RegistroUtestPageYourself.LBL_REGISTRO_COMPLETO).viewedBy(actor).asString();
         if (question.equals(nameCourse)){
             return true;
         }else{

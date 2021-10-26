@@ -3,7 +3,7 @@ package co.com.choucair.certification.Utest.userinterface;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class RegistroUtestPage2 {
+public class RegistroUtestPageAddress {
     public static final Target INPUT_CITY = Target.the("Campo para ingresar la ciudad de origen").located(By.id("city"));
     public static final Target INPUT_CODE_POSTAL = Target.the("Campo para ingresar el codigo postal").located(By.id("zip"));
     public static final Target LIST_COUNTRY = Target.the("Campo para seleccionar el pais de origen").located(By.xpath("//span[@class='ui-select-match-text pull-left']"));

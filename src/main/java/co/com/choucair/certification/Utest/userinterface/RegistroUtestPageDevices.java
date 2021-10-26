@@ -3,7 +3,7 @@ package co.com.choucair.certification.Utest.userinterface;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class RegistroUtestPage3 {
+public class RegistroUtestPageDevices {
     public static final Target LIST_YOUR_COMPUTER = Target.the("Lista con los sistemas operativos disponibles").located(By.xpath("(//span[@aria-label='Select OS'])[1]"));
     public static final Target SEARCH_COMPUTER = Target.the("Seleccionar sistema operativo").located(By.xpath("(//input[@aria-label='Select box'])[1]"));
     public static final Target LIST_VERSION = Target.the("Lista con las versiones disponibles").located(By.xpath("//span[@aria-label='Select a Version']"));

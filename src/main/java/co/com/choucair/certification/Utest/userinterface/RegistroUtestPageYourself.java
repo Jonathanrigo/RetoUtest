@@ -3,7 +3,7 @@ package co.com.choucair.certification.Utest.userinterface;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class RegistroUtestPage  {
+public class RegistroUtestPageYourself {
     public static final Target BUTTON_JOIN_TODAY = Target.the("Boton de registro").located(By.className("unauthenticated-nav-bar__sign-up"));
     public static final Target INPUT_FIRST_NAME = Target.the("Campo para ingresar el nombre del usuario").located(By.id("firstName"));
     public static final Target INPUT_LAST_NAME= Target.the("Campo para ingresar los apellidos del usuario").located(By.id("lastName"));

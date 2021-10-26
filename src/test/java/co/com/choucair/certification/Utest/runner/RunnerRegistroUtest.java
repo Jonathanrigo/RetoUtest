@@ -10,5 +10,5 @@ import org.junit.runner.RunWith;
         tags = "@Scenario1",
         glue = "co.com.choucair.certification.Utest.stepdefinitions",
         snippets = SnippetType.CAMELCASE )
-public class RunnerTags {
+public class RunnerRegistroUtest {
 }

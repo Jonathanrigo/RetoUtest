@@ -13,3 +13,4 @@ Feature: Enter Utest.com
     Examples:
       | first_name   | last_name   | email                | month     | day   | year   | city     | postal_code   | country   | computer   | version    | language   | mobile   | model    | operating_system   | password      | confirm_password   | mensaje_registro                                                        |
       | Candidato    | Correa      | usuario0@hotmail.com | September | 20    | 1990   | Medellín | 05660         | Colombia  | Windows    | 10         | Spanish    | Apple    | iPhone 4 | iOS 6.1            | Kmzwayw1aalol | Kmzwayw1aalol      | Welcome to the world's largest community of freelance software testers! |
+
